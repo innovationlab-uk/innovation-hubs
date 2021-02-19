@@ -1,0 +1,61 @@
+1610640336107	geckodriver	INFO	Listening on 127.0.0.1:59800
+1610640336705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileryt4L1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610640338239	Marionette	INFO	Listening on port 59816
+1610640338307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610640447737	geckodriver	INFO	Listening on 127.0.0.1:60355
+1610640448756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileuZJvHW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610640449988	Marionette	INFO	Listening on port 60370
+1610640450023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1610658638198	geckodriver	INFO	Listening on 127.0.0.1:58864
+1610658639222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileBSHNG8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610658640657	Marionette	INFO	Listening on port 58879
+1610658640689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610658666100	Marionette	INFO	Stopped listening on port 58879
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610658669099	Marionette	INFO	Stopped listening on port 60370
+1610658670618	Marionette	INFO	Stopped listening on port 59816
+1610658684015	geckodriver	INFO	Listening on 127.0.0.1:59134
+1610658685030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofiledgTgA1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610658686146	Marionette	INFO	Listening on port 59149
+1610658686195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610659470472	Marionette	INFO	Stopped listening on port 59149
+1610662014801	geckodriver	INFO	Listening on 127.0.0.1:56714
+1610662015820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileSKQJij"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610662017146	Marionette	INFO	Listening on port 56729
+1610662017192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610662072586	geckodriver	INFO	Listening on 127.0.0.1:57026
+1610662073603	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofilewZ46IJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610662074791	Marionette	INFO	Listening on port 57041
+1610662074863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1610662603988	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+[Child 98322, MediaDecoderStateMachine #2] WARNING: Decoder=15ccc5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 98322, MediaDecoderStateMachine #2] WARNING: Decoder=15ccc5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 98322, MediaDecoderStateMachine #2] WARNING: Decoder=15ccc5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 98322, MediaDecoderStateMachine #2] WARNING: Decoder=15ccc5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 98322, MediaDecoderStateMachine #2] WARNING: Decoder=15ccc5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1610665730339	Marionette	INFO	Stopped listening on port 56729

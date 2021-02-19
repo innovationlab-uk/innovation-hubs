@@ -1,0 +1,103 @@
+1613760020391	geckodriver	INFO	Listening on 127.0.0.1:54373
+1613760021633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileKmgWhx"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760027099	Marionette	INFO	Listening on port 54388
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760066824	geckodriver	INFO	Listening on 127.0.0.1:54635
+1613760067838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofile8WTGEQ"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760069252	Marionette	INFO	Listening on port 54650
+1613760069314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760069319	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760175975	Marionette	ERROR	[37] No reply from Marionette:Register
+1613760204112	geckodriver	INFO	Listening on 127.0.0.1:55306
+1613760205130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofilevUaRlh"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760206805	Marionette	INFO	Listening on port 55321
+1613760206902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760206907	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760321148	Marionette	INFO	Stopped listening on port 54388
+1613760322889	Marionette	INFO	Stopped listening on port 54650
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613760324880	Marionette	INFO	Stopped listening on port 55321
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613760438223	geckodriver	INFO	Listening on 127.0.0.1:56375
+1613760439244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofiled0aW4F"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760440374	Marionette	INFO	Listening on port 56390
+1613760440399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760440403	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760440807	Marionette	ERROR	[37] No reply from Marionette:Register
+1613760441869	Marionette	ERROR	[39] No reply from Marionette:Register
+1613760529075	geckodriver	INFO	Listening on 127.0.0.1:56844
+1613760530089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofile33gRU2"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760531424	Marionette	INFO	Listening on port 56859
+1613760531453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760531458	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760531782	Marionette	ERROR	[37] No reply from Marionette:Register
+1613760532840	Marionette	ERROR	[39] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613760533393	Marionette	INFO	Stopped listening on port 56390
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1613760808620	geckodriver	INFO	Listening on 127.0.0.1:58098
+1613760809634	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileWNmbIw"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760812076	Marionette	INFO	Listening on port 58113
+1613760812147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760812152	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760812367	Marionette	ERROR	[37] No reply from Marionette:Register
+1613760813445	Marionette	ERROR	[39] No reply from Marionette:Register
+1613760864675	Marionette	INFO	Stopped listening on port 58113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613760986528	geckodriver	INFO	Listening on 127.0.0.1:58941
+1613760987550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofileedSW1p"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760988638	Marionette	INFO	Listening on port 58956
+1613760988699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613760988705	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613760989023	Marionette	ERROR	[37] No reply from Marionette:Register
+1613760990190	Marionette	ERROR	[39] No reply from Marionette:Register
+1613761054858	geckodriver	INFO	Listening on 127.0.0.1:59311
+1613761055885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w2/p390vq9x2j91xtjp7lcj21hh0000gn/T/rust_mozprofilerUCZjk"
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D_ARRAY is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613761057256	Marionette	INFO	Listening on port 59326
+1613761057349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613761057354	Marionette	ERROR	[19] No reply from Marionette:Register
+1613761057890	Marionette	ERROR	[37] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613761060055	Marionette	ERROR	[39] No reply from Marionette:Register
+1613761061044	Marionette	INFO	Stopped listening on port 58956
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613761245406	Marionette	ERROR	[41] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
