@@ -5,6 +5,9 @@ OUT = 'newReadme.md'
 class Table:
     def __init__(self, cells):
         self.cells = cells
+        for row_in, c in enumerate(self.cells):
+            for cell_in, i in enumerate(c):
+                self.cells[row_in][cell_in] = i.strip()
         self.widths = list(map(max, zip(*[list(map(len, row)) for row in cells])))
 
     def markdown(self, center_aligned_columns=None, right_aligned_columns=None):
