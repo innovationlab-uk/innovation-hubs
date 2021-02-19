@@ -1,3 +1,5 @@
 .DS_Store
 .env
+twitter_scrapes/geckodriver.log
 .ip*
+*.log
