@@ -3,3 +3,4 @@
 twitter_scrapes/geckodriver.log
 .ip*
 *.log
+geckodriver.log

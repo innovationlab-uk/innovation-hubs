@@ -101,3 +101,19 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1613761245406	Marionette	ERROR	[41] No reply from Marionette:Register
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+[Child 82992, MediaDecoderStateMachine #1] WARNING: Decoder=127e05000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 82992, MediaDecoderStateMachine #1] WARNING: Decoder=127e05000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendors~main.1a0e8535.js, line 17: Error: Unexpected input given to normalize. Expected type to be "object", found "string".
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendors~main.1a0e8535.js, line 17: Error: Unexpected input given to normalize. Expected type to be "object", found "string".
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendors~main.1a0e8535.js, line 17: Error: Unexpected input given to normalize. Expected type to be "object", found "string".
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendors~main.1a0e8535.js, line 17: Error: Unexpected input given to normalize. Expected type to be "object", found "string".
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1613769927795	Marionette	INFO	Stopped listening on port 59326
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
